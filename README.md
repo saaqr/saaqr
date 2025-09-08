@@ -1,9 +1,10 @@
 <!-- Profile README for GitHub: saaqr -->
 
+<!-- 🌊 Wave Header -->
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yo,+I'm+Soonya+🦊&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40)
+
 <div align="center">
- <img src="soonya.png" alt="soonya" width="200" style="border-radius:50%" />
-  
-  # 👋 Yo, I'm **Soonya** 🦊
+  <img src="soonya.png" alt="soonya" width="200" style="border-radius:50%" />
 </div>
 
 ---
@@ -45,5 +46,8 @@
 
 ## 🎉 Fun Animation
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Keep+Learning+🚀;Keep+Building+💻;Keep+Exploring+🌍;Keep+Creating+✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Yo+I'm+Soonya+🔥;Still+Learning+But+Never+Giving+Up+💻;Open-Source+Contributor+In+Progress+🚀;Always+Exploring+New+Ideas+✨" alt="Typing Animation" />
 </p>
+
+<!-- 🌊 Wave Footer -->
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
