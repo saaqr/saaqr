@@ -25,6 +25,11 @@
 
 ---
 
+### 🎶 Favorite Song
+[![Running Up That Hill](soonya-song.png)](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP)
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saaqr&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
